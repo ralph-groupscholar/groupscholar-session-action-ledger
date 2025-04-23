@@ -1,0 +1,7 @@
+*.fasl
+*.fas
+*.fsl
+*.lx64fsl
+*.dx64fsl
+*.cfasl
+.DS_Store
